@@ -15,5 +15,12 @@
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>
+	<key>KLInfo_US-ES International</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.custom-keyboard.us-esinternational</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-US</string>
+	</dict>
 </dict>
 </plist>
