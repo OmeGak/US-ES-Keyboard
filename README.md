@@ -10,6 +10,8 @@ US-ES-Keyboard is a slightly customized keyboard layout for _MacOS X_ (from 10.4
 
 Improvements
 ------------
+These are the improvements added on top of the __U.S. International - PC__ layout.
+
 ### Spanish support
 * Easy access to __€__: ``` Alt + E ```.
 * Easy access to __Ñ__: ``` Alt + N ```.
