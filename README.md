@@ -13,9 +13,9 @@ Improvements
 These are the improvements added on top of the __U.S. International - PC__ layout.
 
 ### Spanish support
-* Easy access to __€__: ``` Alt + E ```.
-* Easy access to __Ñ__: ``` Alt + N ```.
+* Easy access to __Ñ__: ``` Alt + N ``` or ```' > N```.
 * Easy access to __¿__: ``` Alt + / ```.
+* Easy access to __€__: ``` Alt + E ```.
 
 ### Coding support
 * Easier strings with ```'```! Apostrophe's accent input can be escaped typing it twice.
