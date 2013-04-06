@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.4 on 2013-03-26 at 20:07 (GMT+01:00)-->
-<!--Last edited by Ukelele version 2.2.4 on 2013-04-06 at 12:02 (GMT+02:00)-->
+<!--Last edited by Ukelele version 2.2.4 on 2013-04-06 at 15:38 (GMT+02:00)-->
 <keyboard group="0" id="5591" name="US-ES International" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
@@ -1361,7 +1361,7 @@
         <when state="State 3" output="¨"/>
         <when state="State 4" output="&#x0022;"/>
         <when state="State 5" output="`"/>
-        <when state="State 6" output="˜"/>
+        <when state="State 6" output="~"/>
         <when state="State 7" output="^"/>
         <when state="State 8" output="&#x0027;"/>
     </terminators>
