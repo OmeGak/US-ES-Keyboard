@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.4 on 2013-03-26 at 20:07 (GMT+01:00)-->
-<!--Last edited by Ukelele version 2.2.4 on 2013-04-06 at 11:59 (GMT+02:00)-->
+<!--Last edited by Ukelele version 2.2.4 on 2013-04-06 at 12:02 (GMT+02:00)-->
 <keyboard group="0" id="5591" name="US-ES International" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
@@ -1216,6 +1216,7 @@
         <action id="9">
             <when state="none" output="N"/>
             <when state="State 6" output="Ñ"/>
+            <when state="State 8" output="Ñ"/>
         </action>
         <action id="10">
             <when state="none" output="O"/>
@@ -1277,6 +1278,7 @@
         <action id="16">
             <when state="none" output="n"/>
             <when state="State 6" output="ñ"/>
+            <when state="State 8" output="ñ"/>
         </action>
         <action id="17">
             <when state="none" output="o"/>
